@@ -1,0 +1,78 @@
+2025-08-13 12:05:47,531:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 12:05:47,532:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 12:05:47,532:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 12:05:47,532:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 12:06:00,219:INFO:Initializing load_model()
+2025-08-13 12:06:00,219:INFO:load_model(model_name=C:\Bisa.AI\tuned_svm_model.pkl, platform=None, authentication=None, verbose=True)
+2025-08-13 12:06:33,457:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 12:06:33,457:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 12:06:33,458:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 12:06:33,458:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 12:06:35,291:INFO:Initializing load_model()
+2025-08-13 12:06:35,291:INFO:load_model(model_name=C:\Bisa.AI\tuned_svm_model.pkl, platform=None, authentication=None, verbose=True)
+2025-08-13 12:07:18,154:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 12:07:18,154:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 12:07:18,154:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 12:07:18,154:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-13 12:07:19,584:INFO:Initializing load_model()
+2025-08-13 12:07:19,584:INFO:load_model(model_name=tuned_svm_model, platform=None, authentication=None, verbose=True)
+2025-08-13 12:07:19,744:WARNING:C:\Users\jerem\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.37.0', 'ipywidgets': '8.1.7', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.5', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.2', 'requests': '2.32.4', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '1.0.0', 'schemdraw': '0.15', 'statsmodels': '0.14.5', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '24.1.2', 'setuptools': '75.2.0', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.5', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '1.0.0', 'schemdraw': '0.15', 'statsmodels': '0.14.5', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.11.13', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2025-08-13 12:07:30,518:INFO:Initializing load_model()
+2025-08-13 12:07:30,518:INFO:load_model(model_name=tuned_svm_model, platform=None, authentication=None, verbose=True)
+2025-08-13 12:07:30,531:WARNING:C:\Users\jerem\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.37.0', 'ipywidgets': '8.1.7', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.5', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.2', 'requests': '2.32.4', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '1.0.0', 'schemdraw': '0.15', 'statsmodels': '0.14.5', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '24.1.2', 'setuptools': '75.2.0', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.5', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '1.0.0', 'schemdraw': '0.15', 'statsmodels': '0.14.5', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.11.13', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2025-08-13 12:07:33,691:INFO:Initializing load_model()
+2025-08-13 12:07:33,691:INFO:load_model(model_name=tuned_svm_model, platform=None, authentication=None, verbose=True)
+2025-08-13 12:07:33,702:WARNING:C:\Users\jerem\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.37.0', 'ipywidgets': '8.1.7', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.5', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.2', 'requests': '2.32.4', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '1.0.0', 'schemdraw': '0.15', 'statsmodels': '0.14.5', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '24.1.2', 'setuptools': '75.2.0', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.6', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.5', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '1.0.0', 'schemdraw': '0.15', 'statsmodels': '0.14.5', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.0.1', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.11.13', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2025-08-13 12:07:33,774:INFO:Initializing predict_model()
+2025-08-13 12:07:33,774:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001E48818FE50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Year', 'Engine_Size_L',
+                                             'Mileage_KM', 'Price_USD',
+                                             'Sales_Volume'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Model', 'Region', 'Color',
+                                             'Fuel_Typ...
+                ('onehot_encoding',
+                 TransformerWrapper(include=['Model', 'Region', 'Color',
+                                             'Fuel_Type'],
+                                    transformer=OneHotEncoder(cols=['Model',
+                                                                    'Region',
+                                                                    'Color',
+                                                                    'Fuel_Type'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('trained_model',
+                 SGDClassifier(alpha=1e-07, eta0=0.5, l1_ratio=0.7700000001,
+                               learning_rate='adaptive', n_jobs=-1,
+                               penalty='elasticnet', random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001E48965B010>)
+2025-08-13 12:07:33,774:INFO:Checking exceptions
+2025-08-13 12:07:33,774:INFO:Preloading libraries
+2025-08-13 12:07:33,778:INFO:Set up data.
+2025-08-13 12:07:33,792:INFO:Set up index.
